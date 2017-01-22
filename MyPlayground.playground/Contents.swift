@@ -2,10 +2,7 @@
 
 import UIKit
 
-var speedHistory:[Int] = []
-speedHistory += [10]
-
-speedHistory.first
+var sum_2:Int?
 
 let names = "Seonjae 💐"
 
