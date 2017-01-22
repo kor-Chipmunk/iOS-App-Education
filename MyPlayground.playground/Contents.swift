@@ -2,6 +2,11 @@
 
 import UIKit
 
+var speedHistory:[Int] = []
+speedHistory += [10]
+
+speedHistory.first
+
 let names = "Seonjae 💐"
 
 struct Task {
